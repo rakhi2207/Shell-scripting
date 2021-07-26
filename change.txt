@@ -1,0 +1,28 @@
+Notepad++ v8.1.2 new features, enhancements & bug-fixes:
+
+1.  Make dark mode restartless.
+2.  Activate dark mode in Windows 11.
+3.  Make Notepad++ dark mode colors customizable: add 6 more color tone choices.
+4.  Add customizing dynamically dark mode colors capacity
+5.  Add command line flag -udl="UDL name" to open a file by applying an existent UDL via its name.
+6.  Use always current file directory in File Rename dialog.
+7.  Fix "Remember last used directory" unexpected behaviour.
+8.  Fix corrupted encoding text on status bar if shortcut assigned to encode command.
+9.  Add a Save all confirm dialog.
+10. Improve JavaScript auto-completion.
+
+
+More fixes & implementations detail:
+https://notepad-plus-plus.org/downloads/v8.1.2/
+
+
+Included plugins:
+
+1.  NppExport v0.3
+2.  Converter v4.3
+3.  Mime Tool v2.6
+
+
+Updater (Installer only):
+
+* WinGup (for Notepad++) v5.2
